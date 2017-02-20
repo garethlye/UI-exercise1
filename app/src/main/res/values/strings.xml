@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UItest1</string>
+    <string name="open_weather_maps_app_id">561849bb92b0871e3d22e80747a6a8be</string>
+    <string name="data_not_found">Null info was retrieved</string>
+</resources>

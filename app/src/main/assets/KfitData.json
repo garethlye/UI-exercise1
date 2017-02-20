@@ -1,0 +1,363 @@
+{
+  "countries": [
+    {
+      "cities": [
+        {
+          "app_launched": false,
+          "id": 61,
+          "name": "Ipoh",
+          "slug": "kuala-lumpur",
+          "short_name": "",
+          "stats": {
+            "schedules": 28417,
+            "activities": 3193,
+            "outlets": 3838,
+            "users": 157498
+          },
+          "company_brand": "kfit",
+          "currency_exponent": 2,
+          "currency_display": "RM",
+          "place_id": "ChIJ4zNA83nsyjERWehSaUaf3I8",
+          "feature_flags": {
+            "fave_pay": true,
+            "payment_gateways": [
+              "adyen"
+            ],
+            "app_company": "KFIT"
+          },
+          "coordinates": "4.597479, 101.090106",
+          "country": "Malaysia",
+          "blog_url": "http://blog.kfit.com/",
+          "timezone": "Asia/Kuala_Lumpur",
+          "currency": "MYR",
+          "country_code": "my",
+          "city_tag_id": 441
+        },
+        {
+          "app_launched": true,
+          "id": 58,
+          "name": "Johor Bahru",
+          "slug": "kuala-lumpur",
+          "short_name": "",
+          "stats": {
+            "schedules": 0,
+            "activities": 0,
+            "outlets": 0,
+            "users": 1
+          },
+          "company_brand": "kfit",
+          "currency_exponent": 2,
+          "currency_display": "RM",
+          "place_id": "ChIJJzpr08YS2jER9dSTtR2y9NU",
+          "feature_flags": {
+            "fave_pay": true,
+            "payment_gateways": [
+              "adyen"
+            ],
+            "app_company": "KFIT"
+          },
+          "coordinates": "1.45407, 103.5940327",
+          "country": "Malaysia",
+          "blog_url": "http://blog.kfit.com/",
+          "timezone": "Asia/Kuala_Lumpur",
+          "currency": "MYR",
+          "country_code": "my",
+          "city_tag_id": 438
+        },
+        {
+          "app_launched": false,
+          "id": 59,
+          "name": "Kota Kinabalu",
+          "slug": "kuala-lumpur",
+          "short_name": "",
+          "stats": {
+            "schedules": 0,
+            "activities": 0,
+            "outlets": 0,
+            "users": 1
+          },
+          "company_brand": "kfit",
+          "currency_exponent": 2,
+          "currency_display": "RM",
+          "place_id": "ChIJp6um5pVpOzIRfnqUFmozgvE",
+          "feature_flags": {
+            "fave_pay": true,
+            "payment_gateways": [
+              "adyen"
+            ],
+            "app_company": "KFIT"
+          },
+          "coordinates": "5.980408, 116.0734568",
+          "country": "Malaysia",
+          "blog_url": "http://blog.kfit.com/",
+          "timezone": "Asia/Kuala_Lumpur",
+          "currency": "MYR",
+          "country_code": "my",
+          "city_tag_id": 439
+        },
+        {
+          "app_launched": true,
+          "id": 1,
+          "name": "Kuala Lumpur",
+          "slug": "kuala-lumpur",
+          "short_name": "kl",
+          "stats": {
+            "schedules": 28417,
+            "activities": 3193,
+            "outlets": 3838,
+            "users": 157498
+          },
+          "company_brand": "groupon",
+          "currency_exponent": 2,
+          "currency_display": "RM",
+          "place_id": "ChIJL9a63wtJzDER1m1NEJ7wZbY",
+          "feature_flags": {
+            "fave_pay": true,
+            "payment_gateways": [
+              "adyen"
+            ],
+            "app_company": "KFIT"
+          },
+          "coordinates": "3.1379835, 101.6582551",
+          "country": "Malaysia",
+          "blog_url": "http://blog.kfit.com/",
+          "timezone": "Asia/Kuala_Lumpur",
+          "currency": "MYR",
+          "country_code": "my",
+          "city_tag_id": 437
+        },
+        {
+          "app_launched": false,
+          "id": 60,
+          "name": "Kuching",
+          "slug": "kuala-lumpur",
+          "short_name": "",
+          "stats": {
+            "schedules": 28417,
+            "activities": 3193,
+            "outlets": 3838,
+            "users": 157498
+          },
+          "company_brand": "kfit",
+          "currency_exponent": 2,
+          "currency_display": "RM",
+          "place_id": "ChIJEb-MJYQH-zERcn6xGllXctM",
+          "feature_flags": {
+            "fave_pay": true,
+            "payment_gateways": [
+              "adyen"
+            ],
+            "app_company": "KFIT"
+          },
+          "coordinates": "1.6076812, 110.3785438",
+          "country": "Malaysia",
+          "blog_url": "http://blog.kfit.com/",
+          "timezone": "Asia/Kuala_Lumpur",
+          "currency": "MYR",
+          "country_code": "my",
+          "city_tag_id": 440
+        },
+        {
+          "app_launched": false,
+          "id": 62,
+          "name": "Malacca",
+          "slug": "kuala-lumpur",
+          "short_name": "",
+          "stats": {
+            "schedules": 28417,
+            "activities": 3193,
+            "outlets": 3838,
+            "users": 157498
+          },
+          "company_brand": "kfit",
+          "currency_exponent": 2,
+          "currency_display": "RM",
+          "place_id": "ChIJ3WWMjifu0TERagGedoFyKgM",
+          "feature_flags": {
+            "fave_pay": true,
+            "payment_gateways": [
+              "adyen"
+            ],
+            "app_company": "KFIT"
+          },
+          "coordinates": "2.189594, 102.2500868",
+          "country": "Malaysia",
+          "blog_url": "http://blog.kfit.com/",
+          "timezone": "Asia/Kuala_Lumpur",
+          "currency": "MYR",
+          "country_code": "my",
+          "city_tag_id": 442
+        },
+        {
+          "app_launched": true,
+          "id": 57,
+          "name": "Penang",
+          "slug": "kuala-lumpur",
+          "short_name": "",
+          "stats": {
+            "schedules": 0,
+            "activities": 0,
+            "outlets": 0,
+            "users": 1
+          },
+          "company_brand": "kfit",
+          "currency_exponent": 2,
+          "currency_display": "RM",
+          "place_id": "ChIJ1XsrrZfDSjARNLmpeFnkmiM",
+          "feature_flags": {
+            "fave_pay": true,
+            "payment_gateways": [
+              "adyen"
+            ],
+            "app_company": "KFIT"
+          },
+          "coordinates": "5.4163459, 100.3327617",
+          "country": "Malaysia",
+          "blog_url": "http://blog.kfit.com/",
+          "timezone": "Asia/Kuala_Lumpur",
+          "currency": "MYR",
+          "country_code": "my",
+          "city_tag_id": 278
+        }
+      ],
+      "name": "Malaysia",
+      "icon": "http://staging5.app.kfit.com/assets/country/icon/malaysia-8008ef84bf0cce1dd63bcd642d84eaebab389a5d8c3a3cc27b5b869d72bc26ec.png"
+    },
+    {
+      "cities": [
+        {
+          "app_launched": true,
+          "id": 2,
+          "name": "Singapore",
+          "slug": "singapore",
+          "short_name": "sg",
+          "stats": {
+            "schedules": 34696,
+            "activities": 3965,
+            "outlets": 1832,
+            "users": 61509
+          },
+          "company_brand": "kfit",
+          "currency_exponent": 2,
+          "currency_display": "S$",
+          "place_id": "ChIJIy5GHpsZ2jERB7ruEy3ZMpA",
+          "feature_flags": {
+            "fave_pay": false,
+            "payment_gateways": [
+              "adyen"
+            ],
+            "app_company": "KFIT"
+          },
+          "coordinates": "1.295939, 103.835683",
+          "country": "Singapore",
+          "blog_url": "http://blog.kfit.com/",
+          "timezone": "Asia/Singapore",
+          "currency": "SGD",
+          "country_code": "sg",
+          "city_tag_id": 243
+        }
+      ],
+      "name": "Singapore",
+      "icon": "http://staging5.app.kfit.com/assets/country/icon/singapore-1a6ef0fd4e88f3c664417fe04a01437aa195180bbfa7a30255768a3f44fd18d9.png"
+    },
+    {
+      "cities": [
+        {
+          "app_launched": false,
+          "id": 56,
+          "name": "Bandung",
+          "slug": "jakarta",
+          "short_name": "",
+          "stats": {
+            "schedules": 0,
+            "activities": 0,
+            "outlets": 0,
+            "users": 0
+          },
+          "company_brand": "kfit",
+          "currency_exponent": 0,
+          "currency_display": "RP",
+          "place_id": "ChIJf0dSgjnmaC4RshXo05MfahQ",
+          "feature_flags": {
+            "fave_pay": false,
+            "payment_gateways": [
+              "veritrans"
+            ],
+            "app_company": "Groupon"
+          },
+          "coordinates": "-6.9676209, 107.547601",
+          "country": "Indonesia",
+          "blog_url": "http://blog.kfit.com/",
+          "timezone": "Asia/Jakarta",
+          "currency": "IDR",
+          "country_code": "id",
+          "city_tag_id": 107
+        },
+        {
+          "app_launched": true,
+          "id": 5,
+          "name": "Jakarta",
+          "slug": "jakarta",
+          "short_name": "jkt",
+          "stats": {
+            "schedules": 0,
+            "activities": 0,
+            "outlets": 2426,
+            "users": 31062
+          },
+          "company_brand": "groupon",
+          "currency_exponent": 0,
+          "currency_display": "RP",
+          "place_id": "ChIJnUvjRenzaS4RILjULejFAAE",
+          "feature_flags": {
+            "fave_pay": false,
+            "payment_gateways": [
+              "veritrans"
+            ],
+            "app_company": "Groupon"
+          },
+          "coordinates": "-6.229728, 106.6890857",
+          "country": "Indonesia",
+          "blog_url": "http://blog.kfit.com/",
+          "timezone": "Asia/Jakarta",
+          "currency": "IDR",
+          "country_code": "id",
+          "city_tag_id": 110
+        },
+        {
+          "app_launched": false,
+          "id": 55,
+          "name": "Surabaya",
+          "slug": "jakarta",
+          "short_name": "",
+          "stats": {
+            "schedules": 0,
+            "activities": 0,
+            "outlets": 0,
+            "users": 0
+          },
+          "company_brand": "kfit",
+          "currency_exponent": 0,
+          "currency_display": "RP",
+          "place_id": "ChIJf8QaOPj71y0RQL5S43Z6AgM",
+          "feature_flags": {
+            "fave_pay": false,
+            "payment_gateways": [
+              "veritrans"
+            ],
+            "app_company": "Groupon"
+          },
+          "coordinates": "-7.2574719, 112.7520883",
+          "country": "Indonesia",
+          "blog_url": "http://blog.kfit.com/",
+          "timezone": "Asia/Jakarta",
+          "currency": "IDR",
+          "country_code": "id",
+          "city_tag_id": 108
+        }
+      ],
+      "name": "Indonesia",
+      "icon": "http://staging5.app.kfit.com/assets/country/icon/indonesia-abc99da9e6375d10632f6fbffcbb04d47753e7f0ac936156070624c47cb33030.png"
+    }
+  ]
+}
